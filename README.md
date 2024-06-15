@@ -51,6 +51,6 @@
 
 <h3 align="center">Contact Me</h3>
 <p align="center">
-  <a href="https://twitter.com/DesmondEves"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/DezSquid54"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://twitch.tv/dezfatboi"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 </p>

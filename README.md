@@ -1,7 +1,12 @@
-<h1>Welcome to my page!! <img src="https://octodex.github.com/images/homercat.png" width="150"/></h1>
+<h1 align="center">Welcome to my page!! <img src="https://octodex.github.com/images/homercat.png" width="150"/></h1>
 
-<h3>Skills I know</h3>
-<p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DezSquid?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/DezSquid?label=Stars&style=social" alt="GitHub stars"/>
+</p>
+
+<h3 align="center">Skills I know</h3>
+<p align="center">
   <img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
   <img alt="Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
@@ -22,4 +27,30 @@
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Google" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">Popular Repositories</h3>
+<div align="center">
+  <a href="https://github.com/DezSquid/DezSquid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DezSquid&repo=DezSquid&theme=dark" />
+  </a>
+  <a href="https://github.com/DezSquid/Brainrot-RNG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DezSquid&repo=Brainrot-RNG&theme=dark" />
+  </a>
+  <a href="https://github.com/DezSquid/Discord-Friend-Status-Checker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DezSquid&repo=Discord-Friend-Status-Checker&theme=dark" />
+  </a>
+  <a href="https://github.com/DezSquid/Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DezSquid&repo=Website&theme=dark" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="https://twitter.com/DesmondEves"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitch.tv/dezfatboi"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 </p>
